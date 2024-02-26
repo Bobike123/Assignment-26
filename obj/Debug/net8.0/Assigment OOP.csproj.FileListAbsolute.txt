@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Assigment OOP\obj\Debug\net8.0\Assigment OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Assigment OOP\obj\Debug\net8.0\Assigment OOP.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Assigment OOP\obj\Debug\net8.0\Assigment OOP.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Assigment OOP\obj\Debug\net8.0\Assigment OOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Assigment OOP\bin\Debug\net8.0\Assigment OOP.exe
+C:\Users\Admin\Desktop\Assigment OOP\bin\Debug\net8.0\Assigment OOP.deps.json
+C:\Users\Admin\Desktop\Assigment OOP\bin\Debug\net8.0\Assigment OOP.runtimeconfig.json
+C:\Users\Admin\Desktop\Assigment OOP\bin\Debug\net8.0\Assigment OOP.dll
+C:\Users\Admin\Desktop\Assigment OOP\bin\Debug\net8.0\Assigment OOP.pdb
+C:\Users\Admin\Desktop\Assigment OOP\obj\Debug\net8.0\Assigment OOP.dll
+C:\Users\Admin\Desktop\Assigment OOP\obj\Debug\net8.0\refint\Assigment OOP.dll
+C:\Users\Admin\Desktop\Assigment OOP\obj\Debug\net8.0\Assigment OOP.pdb
+C:\Users\Admin\Desktop\Assigment OOP\obj\Debug\net8.0\Assigment OOP.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Assigment OOP\obj\Debug\net8.0\ref\Assigment OOP.dll

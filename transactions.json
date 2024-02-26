@@ -1,0 +1,30 @@
+[
+  {
+    "ID": "1f31b7f6-3b58-41cd-886e-627f8c0210c1",
+    "Date": "2005-04-20T00:00:00",
+    "Description": "Sa moara mama taxa de protectie",
+    "Amount": 2500,
+    "Category": "Nuj"
+  },
+  {
+    "ID": "5ee1ccd0-c113-4bea-ad72-20e86f3f6f12",
+    "Date": "2004-08-30T00:00:00",
+    "Description": "M-am nascut",
+    "Amount": 1000000,
+    "Category": "Birthday"
+  },
+  {
+    "ID": "d7b8aa21-07ef-448b-9f91-2e76ea3a5cde",
+    "Date": "2005-01-17T00:07:00",
+    "Description": "nu ziua lu zory",
+    "Amount": 3500,
+    "Category": "nuj"
+  },
+  {
+    "ID": "d95c1faf-319e-46a8-b197-ce807431003e",
+    "Date": "1990-01-29T00:12:00",
+    "Description": "taxa de protectie",
+    "Amount": 100000,
+    "Category": "Bataie"
+  }
+]
