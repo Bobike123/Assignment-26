@@ -6,5 +6,5 @@ public interface IFinance
     decimal CalculateTotalIncome();
     decimal CalculateTotalExpenses();
     decimal CalculateBalance();
-    void LoadTransactions(List<Transaction> transactions); // Add this method
+    void LoadTransactions(List<Transaction> transactions);
 }
